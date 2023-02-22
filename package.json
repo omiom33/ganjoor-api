@@ -24,7 +24,7 @@
     "morgan": "^1.8.1",
     "mysql": "^2.13.0",
     "ramda": "^0.23.0",
-    "sequelize": "^3.30.2",
+    "sequelize": "^6.28.2",
     "sequelize-hierarchy": "^1.2.0",
     "swagger-ui": "^2.2.10",
     "winston": "^2.3.1"
